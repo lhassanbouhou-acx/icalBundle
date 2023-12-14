@@ -5,7 +5,7 @@
 [![Packagist](https://img.shields.io/packagist/dt/welp/ical-bundle.svg)](https://packagist.org/packages/welp/ical-bundle)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/welpdev/icalBundle/blob/master/LICENSE)
 
-Symfony Bundle to manage .ics iCal file (creating and eventually reading)
+Symfony Bundle to manage .ics iCal file (creating and eventually reading) .
 
 use of the library: <https://github.com/jasvrcek/ICS>
 
